@@ -1,0 +1,22 @@
+{
+  "name": "barmaid",
+  "version": "1.0.0",
+  "description": "Nakwon (Mark) Yoon\r Group Members\r Jessamine Brown\r Kenneth Wardlow\r Joyce Young",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nakwonyoon/BarMaid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nakwonyoon/BarMaid/issues"
+  },
+  "homepage": "https://github.com/Nakwonyoon/BarMaid#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
